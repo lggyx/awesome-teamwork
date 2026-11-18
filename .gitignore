@@ -1,0 +1,24 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# 环境与密钥（密钥只放本地，绝不进仓库）
+.env
+.env.*
+*.key
+*.pem
+
+# 依赖与构建产物（技术选型确定后按实际栈补充）
+node_modules/
+__pycache__/
+*.pyc
+dist/
+build/
+target/
+
+# 测试与临时产物
+coverage/
+*.log
+tmp/
