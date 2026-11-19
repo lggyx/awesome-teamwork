@@ -6,6 +6,7 @@ source: community
 evidence:
   - https://github.com/hcengineering/platform/issues/6653
   - https://github.com/makeplane/plane/issues/1495
+  - https://news.ycombinator.com/item?id=20807328
 severity: 中
 frequency: 高
 existing_solutions:
@@ -30,6 +31,10 @@ status: open
 - Plane#1495（89 👍 / 22 评论，open）："an integration with Gitea for
   syncing Issues would be nice. … Would allow gitea users to sync their
   issues."（两链接均经代理抓取，热度为 2026-11-19 读数）
+- Jira 老用户（补充，60/78）："My current frustration is the Git
+  integration; it only works with commits (not PRs) and is not 100%
+  reliable."——老牌工具的集成同样是半吊子。
+  https://news.ycombinator.com/item?id=20807328
 
 ## 现有方案为什么不够
 

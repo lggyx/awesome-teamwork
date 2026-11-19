@@ -5,6 +5,8 @@ title: 硬性 sprint 节拍与真实完成度脱节，"按剧本走"浪费大量
 source: community
 evidence:
   - https://news.ycombinator.com/item?id=24050732
+  - https://news.ycombinator.com/item?id=36813858
+  - https://www.v2ex.com/t/519427
 severity: 中
 frequency: 高
 existing_solutions:
@@ -28,6 +30,11 @@ time trying to play by the book on this."
   much wasted time trying to play by the book on this. ... Things get done
   when they're done, not when an arbitrary sprint end day has occurred."
   https://news.ycombinator.com/item?id=24050732
+- HN 36813858（补充，73/119）："instead of asking 'what's the right way
+  to do this?', you ask 'how much can we hack out in 2 weeks to show
+  progress?'"——sprint 砍小了解空间。
+- V2EX t519427（补充，48 回复）："非要码畜们给出粒度到小时的排期，每个
+  小时干啥，每半天验收一次。"——节拍颗粒度暴政。
 
 ## 现有方案为什么不足
 
