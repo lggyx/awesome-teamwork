@@ -7,6 +7,8 @@ evidence:
   - https://github.com/hcengineering/platform/issues/6653
   - https://github.com/makeplane/plane/issues/1495
   - https://news.ycombinator.com/item?id=20807328
+  - https://github.com/laurent22/joplin/issues/753
+  - https://github.com/nocodb/nocodb/issues/9596
 severity: 中
 frequency: 高
 existing_solutions:
